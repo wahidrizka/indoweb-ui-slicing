@@ -1,8 +1,8 @@
 <div align="center">
-  <h3 align="center">Indoweb.id Navbar</h3>
+  <h3 align="center">Indoweb.id - Navbar</h3>
 </div>
 
-Slicing Button Navbar <a href="https://indoweb.id/">IndoWeb.id</a>.
+Slicing Button Navbar <a href="https://indoweb.id/">indoweb.id</a>.
 
 ## Features
 
