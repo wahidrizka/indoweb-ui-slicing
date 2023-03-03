@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">Indoweb.id - Navbar</h3>
+  <h3 align="center">Indoweb.id</h3>
   <img align="center" width="600" src="https://raw.githubusercontent.com/wahidrizka/prepclass-slicing-navbar/main/public/preview.png" />
 </div>
 
