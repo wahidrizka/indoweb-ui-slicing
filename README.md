@@ -3,7 +3,7 @@
   <img align="center" width="600" src="https://raw.githubusercontent.com/wahidrizka/prepclass-slicing-navbar/main/public/preview.png" />
 </div>
 
-Slicing Button Navbar <a href="https://indoweb.id/">indoweb.id</a>.
+Slicing UI <a href="https://indoweb.id/">indoweb.id</a>.
 
 ## Features
 
